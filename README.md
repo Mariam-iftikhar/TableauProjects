@@ -101,13 +101,6 @@ This repository includes reference materials for continuous learning:
    - Browse PNG screenshots for quick visualization previews
    - Read project reports for detailed analysis and insights
 
-## 📈 Future Projects
-
-Planned additions to this portfolio:
-- Sales performance analytics dashboard
-- Marketing campaign effectiveness tracker
-- Supply chain operations visualization
-- Customer segmentation and behavior analysis
 
 ## 💡 Key Takeaways
 
@@ -120,10 +113,6 @@ These projects showcase:
 ## 📞 Connect
 
 Interested in discussing these projects or potential collaborations?
-
-- **LinkedIn**: [linkedin.com/in/mariamiftikhar](https://www.linkedin.com/in/mariamiftikhar/)
-- **GitHub**: [github.com/Mariam-iftikhar](https://github.com/Mariam-iftikhar)
-- **Email**: your.email@example.com
 
 ---
 
